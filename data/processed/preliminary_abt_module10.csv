@@ -1,0 +1,13 @@
+carrier,month,year,flight_count,avg_dep_delay,avg_arr_delay,avg_distance,carrier_name
+DL,12,2013,4093,10.79,6.17,1248.41,Delta Air Lines Inc.
+DL,11,2013,3849,2.85,-2.76,1232.88,Delta Air Lines Inc.
+DL,10,2013,4093,3.42,-6.3,1226.9,Delta Air Lines Inc.
+DL,9,2013,3883,5.53,-4.41,1231.15,Delta Air Lines Inc.
+DL,8,2013,4318,9.85,0.83,1233.55,Delta Air Lines Inc.
+DL,7,2013,4251,20.58,14.92,1238.19,Delta Air Lines Inc.
+DL,6,2013,4126,18.74,13.26,1237.28,Delta Air Lines Inc.
+DL,5,2013,4082,9.74,-0.39,1248.09,Delta Air Lines Inc.
+DL,4,2013,4092,8.17,3.44,1246.6,Delta Air Lines Inc.
+DL,3,2013,4189,9.93,1.41,1248.55,Delta Air Lines Inc.
+DL,2,2013,3444,5.54,-4.73,1227.0,Delta Air Lines Inc.
+DL,1,2013,3690,3.85,-4.4,1220.39,Delta Air Lines Inc.
